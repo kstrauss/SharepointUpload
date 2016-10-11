@@ -13,7 +13,7 @@ namespace Contoso.Core.LargeFileUpload
     {
         static void Main(string[] args)
         {
-
+            // need to add options and argmunents handling
             // Request Office365 site from the user
             string siteUrl = args[0];
 
